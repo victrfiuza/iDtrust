@@ -39,5 +39,5 @@ for (contador <= 10 ) {
 } 
 print("O valor da soma é " + soma)
 ```
-.
+
 **c) O valor da soma é 79**
