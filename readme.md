@@ -1,6 +1,5 @@
-# Exercícios programação iDtrust - Victor Fiuza
+# Exercícios programação - Victor Fiuza
 
- Vaga: Analista de Implantação Junior
 
 ---
 
